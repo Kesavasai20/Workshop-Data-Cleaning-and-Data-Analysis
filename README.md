@@ -1,13 +1,25 @@
-## Workshop-Data-Cleaning-and-Data-Analysis:
+## Workshop:
 ```PY
 ## NAME: K KESAVA SAI
 ## REGISTER NUMBER: 212223230105
 ```
 ## AIM:
-
+ Data Cleaning and Data Analysis 
 ## EXPLANATION:
 
+Data Cleaning involves detecting and correcting errors, inconsistencies, and inaccuracies in datasets to ensure high-quality, reliable data.
+Data Analysis is the process of examining, interpreting, and deriving meaningful insights from cleaned data to support decision-making or reveal patterns and trends.
+
 ## ALGORITHM:
+1.Collect Data: Gather raw data from various sources, ensuring it aligns with the objectives of the analysis.
+
+2.Clean Data: Detect and handle missing values, outliers, duplicates, and correct inconsistencies (e.g., typos, wrong formats).
+
+3.Transform Data: Normalize, scale, or encode data as needed to prepare it for analysis.
+
+4.Analyze Data: Apply statistical methods, visualizations, or machine learning algorithms to uncover trends, relationships, or patterns.
+
+5.Interpret Results: Summarize findings, draw insights, and report conclusions or recommendations based on the analysis.
 
 ## CODING AND OUTPUT:
 
