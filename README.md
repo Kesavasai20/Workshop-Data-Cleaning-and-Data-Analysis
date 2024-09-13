@@ -243,3 +243,4 @@ sns.scatterplot(data=dt['temp'])
 ![image](https://github.com/user-attachments/assets/b06b6849-f29a-4063-81bd-1a89c1303a2f)
 
 ## RESULT:
+Hence, The Data Cleaning and Data Analysis of an given sample has been analised successfully.
